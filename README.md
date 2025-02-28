@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekha2351&label=Profile%20views&color=0e75b6&style=flat" alt="surekha2351" /> </p>
 
-- 🔭 Mini Project > [Insta-Share(Mini-Project)](https://github.com/surekha2351/Insta-Share-Mini-Project.git)
+- 🔭 Mini Project > [Nxt Trendz Payment](https://ramnxttrendz1.ccbp.tech)
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
