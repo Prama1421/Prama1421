@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Surekha Yerrabatti</h1>
+<h1 align="center">Hi 👋, I'm Ramachandra reddy Pothireddy </h1>
 <h3 align="center">A Passionate Frontend Developer😉 | Web Developer🤗 | Full Stack Developer😍</h3>
 <img align ="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
 
