@@ -11,14 +11,14 @@
 
 - 😎 My First Project [Food Munch🍕](surekha10.ccbp.tech)
 
-- 👨‍💻 All of my projects are available at [My PortFolio](myportfolio5.ccbp.tech)
+- 👨‍💻 All of my projects are available at [My PortFolio](https://ramachandrareddy1.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, PYTHON, JAVASCRIPT, SQL, ReactJS, MongoDB, Bootstrap, NodeJS**
 
-- 📫 How to reach me **yarrabattisurekha3260@gmail.com**
+- 📫 How to reach me **pothireddy222@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1yjNIzBQPjd8gkSs1pjNEnz82WXcwEPjp/view?usp=share_link)
--  <a href="https://www.youtube.com/@Failures_to_fortunes" >▶️My Youtube Channel</a>
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Tpnyfp5GuUtYYs_vpLYou59FMUX-h5xc/view?usp=sharing)
+  
 
 - ⚡ Fun fact **I am Light-Hearted💞**
 
