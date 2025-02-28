@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉**
 
-- 😎 My First Project [Food Munch🍕](surekha10.ccbp.tech)
+- 😎 My First Project [Nxt Watch (YouTube clone)](https://nxtwatchl.ccbp.tech)
 
 - 👨‍💻 All of my projects are available at [My PortFolio](https://ramachandrareddy1.vercel.app/)
 
