@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ramachandra reddy Pothireddy </h1>
 <h3 align="center">A Passionate Frontend Developer😉 | Web Developer🤗 | Full Stack Developer😍</h3>
-<img align ="right" width="400" alt="coding" src=""
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekha2351&label=Profile%20views&color=0e75b6&style=flat" alt="surekha2351" /> </p>
 
